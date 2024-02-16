@@ -29,7 +29,8 @@ I'm a passionate Engineer  in automating, optimizing, and streamlining developme
 - **Operating Systems**: Linux (Ubuntu, CentOS, RHEL, Manjaro), Windows
 
 ## 🌐 Socials:
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/bakhtiyar.ismayil) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/bakhtiyar-ismayil) [![Bookmate](https://img.shields.io/badge/Bookmate-%23250077B5.svg?logo=bookmate&logoColor=white)](https://www.bookmate.com)
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/bakhtiyar.ismayil) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/bakhtiyar-ismayil) [![Goodreads](https://img.shields.io/badge/Goodreads-%230077B5.svg?logo=goodreads&logoColor=white)](https://www.goodreads.com/bakhtiyarismayil)
+
 
 
 <!--
