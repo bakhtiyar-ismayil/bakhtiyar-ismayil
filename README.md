@@ -48,5 +48,8 @@ I'm a passionate Engineer  in automating, optimizing, and streamlining developme
 
 ![GitHub release (latest by date)](https://img.shields.io/github/v/release/bakhtiyar-ismayil/my-project?color=blue)
 
+![GitHub commit activity](https://img.shields.io/github/commit-activity/m/bakhtiyar-ismayil/my-project?color=green)
+
+
 ---
 [![](https://visitcount.itsvg.in/api?id=bakhtiyar-ismayil&icon=0&color=0)](https://visitcount.itsvg.in)
