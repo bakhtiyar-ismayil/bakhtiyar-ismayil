@@ -46,10 +46,11 @@ I'm a passionate Engineer  in automating, optimizing, and streamlining developme
 
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=bakhtiyar-ismayil&theme=swift&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
-#![GitHub release (latest by date)](https://img.shields.io/github/v/release/bakhtiyar-ismayil/my-project?color=blue)
+<!--
+![GitHub release (latest by date)](https://img.shields.io/github/v/release/bakhtiyar-ismayil/my-project?color=blue)
 
-#![GitHub commit activity](https://img.shields.io/github/commit-activity/m/bakhtiyar-ismayil/my-project?color=green)
-
+![GitHub commit activity](https://img.shields.io/github/commit-activity/m/bakhtiyar-ismayil/my-project?color=green)
+-->
 
 ---
 [![](https://visitcount.itsvg.in/api?id=bakhtiyar-ismayil&icon=0&color=0)](https://visitcount.itsvg.in)
