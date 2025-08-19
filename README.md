@@ -1,5 +1,5 @@
 
-###  I'm a passionate Engineer  in automating, optimizing, and streamlining development and operational workflows. I love building scalable infrastructure, improving deployment pipelines, and ensuring the reliability and performance of applications.
+I'm a passionate Engineer  in automating, optimizing, and streamlining development and operational workflows. I love building scalable infrastructure, improving deployment pipelines, and ensuring the reliability and performance of applications.
 
   
 ## 🌐 Socials:
