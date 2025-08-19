@@ -1,16 +1,6 @@
 
-I'm a passionate Engineer  in automating, optimizing, and streamlining development and operational workflows. I love building scalable infrastructure, improving deployment pipelines, and ensuring the reliability and performance of applications.
+###  I'm a passionate Engineer  in automating, optimizing, and streamlining development and operational workflows. I love building scalable infrastructure, improving deployment pipelines, and ensuring the reliability and performance of applications.
 
-## 🔧 Technologies & Tools
-
-- **Infrastructure as Code**: Terraform
-- **Configuration Management**: Ansible, Chef
-- **Containerization & Orchestration**: Docker, Kubernetes, Nomad
-- **Continuous Integration / Continuous Deployment (CI/CD)**: Jenkins, GitLab CI/CD, GitHub Actions
-- **Monitoring & Logging**: Prometheus, Grafana, Zabbix, ELK Stack
-- **Version Control**: Git
-- **Scripting**: Bash, Python
-- **Operating Systems**: Linux (Ubuntu, CentOS, RHEL, Manjaro), Windows
   
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/bakhtiyar.ismayil) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/bakhtiyar-ismayil) [![Goodreads](https://img.shields.io/badge/Goodreads-%23FFA500.svg?logo=goodreads&logoColor=white)](https://www.goodreads.com/bakhtiyarismayil) [![Twitter](https://img.shields.io/badge/Twitter-%23000000.svg?logo=twitter&logoColor=white)](https://www.twitter.com/bidotme)
